@@ -1,5 +1,5 @@
 {
-    "Alphanumeric" :[
+    "AlphaC" :[
         {
             "id" : 1,
             "name" : "A",
@@ -129,7 +129,9 @@
             "id" : 27,
             "name" : "Z",
             "ASCII" : "090"
-        },
+        }
+    ],
+    "AlphaS" :[
         {
             "id" : 28,
             "name" : "a",
@@ -259,7 +261,9 @@
             "id" : 53,
             "name" : "z",
             "ASCII" : "122"
-        },
+        }
+    ],
+    "Num" :[
         {
             "id" : 54,
             "name": "0",
